@@ -31,7 +31,7 @@ En https://share.streamlit.io/ conecta GitHub, crea una app, selecciona el repos
 En la configuración de Secrets de Streamlit agrega:
 
 ```toml
-GEMINI_API_KEY = "TU_CLAVE_PRIVADA_DE_GEMINI"
+GEMINI_API_KEY = "AQ.Ab8RN6IeDH3RG_I3cvee6VKI5s9VXmPjyxRLOQ07aoQzNgIsyQ"
 ```
 
 No publiques la clave en GitHub ni la pegues en el código. Después de desplegar, Streamlit entregará el enlace de la aplicación.
