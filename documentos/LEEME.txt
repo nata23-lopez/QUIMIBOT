@@ -1,0 +1,3 @@
+COLOCA AQUÍ LOS 11 MATERIALES ORIGINALES DE LA ASIGNATURA.
+Formatos admitidos: PDF, PPTX, XLSX, XLS y DOCX.
+No subas contraseñas ni claves API a esta carpeta.
